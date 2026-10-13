@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "PokéSurvivor FR",
+  "version": "0.1.0",
+  "description": "Traduction française non officielle du jeu de fan PokéSurvivor.",
+  "content_scripts": [
+    {
+      "matches": ["https://pokesurvivor.com/*", "https://www.pokesurvivor.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
