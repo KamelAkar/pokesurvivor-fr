@@ -1,6 +1,6 @@
 {
   "name": "pokesurvivor-fr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Traduction française non officielle du jeu de fan PokéSurvivor (extension de navigateur).",
   "private": true,
   "type": "module",
