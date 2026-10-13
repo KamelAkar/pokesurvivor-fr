@@ -132,5 +132,10 @@
   "de la semana": "de la semaine",
   "del mes": "du mois",
   "del año": "de l'année",
-  "histórico": "historique"
+  "histórico": "historique",
+  "Reportar marca sospechosa": "Signaler un score suspect",
+  "Ya la has reportado": "Tu l'as déjà signalé",
+  "Ya has reportado esta marca": "Tu as déjà signalé ce score",
+  "¿Reportar la marca de {x} como trampa?": "Signaler le score de {x} comme triche ?",
+  "Gracias: la revisaremos": "Merci : nous allons l'examiner"
 }
