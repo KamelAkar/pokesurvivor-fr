@@ -43,6 +43,7 @@
   "Este mes se han llenado las plazas de cuentas nuevas: vuelven el 1 de {x}. Si ya tienes cuenta, entra normal. Si no, juega como invitado.": "Ce mois-ci, toutes les places pour les nouveaux comptes sont prises : elles reviennent le 1er {x}. Si tu as déjà un compte, connecte-toi normalement. Sinon, joue en tant qu'invité.",
   "Este mes ya no quedan plazas para cuentas nuevas (vuelven el 1 de {x}). Mientras, puedes jugar como invitado.": "Il ne reste plus de place pour les nouveaux comptes ce mois-ci (elles reviennent le 1er {x}). En attendant, tu peux jouer en tant qu'invité.",
   "Ahora mismo no se pueden crear cuentas nuevas. Si ya tienes cuenta, entra normal; si no, puedes jugar como invitado.": "Il n'est pas possible de créer de nouveau compte pour le moment. Si tu as déjà un compte, connecte-toi normalement ; sinon, tu peux jouer en tant qu'invité.",
+  "Actualización obligatoria: tu partida se guarda y el juego se recarga en {x} s…": "Mise à jour obligatoire : ta partie est sauvegardée et le jeu se recharge dans {x} s…",
   "Hay una versión nueva del juego: actualizando en {x} s…": "Une nouvelle version du jeu est disponible : mise à jour dans {x} s…",
   "No se pudo conectar (reintentando…)": "Connexion impossible (nouvelle tentative…)",
   "No se pudo cargar todo el juego (¿se cortó la conexión?).": "Le jeu n'a pas pu se charger entièrement (connexion coupée ?).",

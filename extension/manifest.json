@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "PokéSurvivor FR",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Traduction française non officielle du jeu de fan PokéSurvivor.",
   "content_scripts": [
     {
