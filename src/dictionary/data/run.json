@@ -230,5 +230,19 @@
   "SENTENCIA · {x} · JEFES {x}": "JUGEMENT · {x} · BOSS {x}",
   "Ante Arceus": "Face à Arceus",
   "{x} · {x} legendarios": "{x} · {x} légendaires",
-  "{x} · {x} legendario": "{x} · {x} légendaire"
+  "{x} · {x} legendario": "{x} · {x} légendaire",
+
+  "Tus ataques": "Tes attaques",
+  "Daño": "Dégâts",
+  "Por segundo": "Par seconde",
+  "Tus estadísticas": "Tes statistiques",
+  "Crítico": "Critique",
+  "Reducción de daño": "Réduction des dégâts",
+  "Recarga": "Recharge",
+  "Regeneración": "Régénération",
+  "Objeto y cartas": "Objet et cartes",
+  "Sin objeto.": "Aucun objet.",
+  "Aún no has cogido cartas de mejora.": "Tu n'as pas encore pris de cartes d'amélioration.",
+  "{x} físico": "{x} physique",
+  "{x} especial": "{x} spécial"
 }
