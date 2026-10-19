@@ -1,5 +1,11 @@
 # PokéSurvivor FR
 
+> **Projet archivé.** Depuis le 19 octobre 2026, PokéSurvivor est disponible en
+> français directement dans le jeu : choisis Français dans les réglages de
+> langue. Cette extension n'est plus nécessaire ni mise à jour. Si tu l'avais
+> installée, désinstalle-la dans `chrome://extensions` pour profiter de la
+> traduction officielle.
+
 Traduction française non officielle de [PokéSurvivor](https://pokesurvivor.com/),
 le jeu de fan de [JPTER78](https://github.com/JPTER78/pokesurvivor), sous forme
 d'extension de navigateur.
